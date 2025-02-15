@@ -1,5 +1,5 @@
 # SparkJobFit
-A machine learning-based resume analyzer that evaluates job seekers' resumes against job descriptions to assess job fit. Built using Spark ML for model training, NLP for skill extraction, and Streamlit for an interactive UI.
+A machine learning-based resume analyzer that evaluates job seeker's resumes against job descriptions to assess job fit. Built using Spark ML for model training, NLP for skill extraction, and Streamlit for an interactive UI.
 
 # Defining the problem
 * Goal is to compare resume with job description and provide a matching score (0-100). 

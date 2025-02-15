@@ -1,5 +1,3 @@
----
-
 ## **1️⃣ Understand the Problem Statement**
 You want to build a **job-resume matching model** that takes:  
 - **Input:** A **job description** and a **resume** (both in text format).  
